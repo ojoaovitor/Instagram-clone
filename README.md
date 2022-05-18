@@ -9,3 +9,8 @@ no intuito de ser uma ação de "curtida".
 Também fiz o projeto todo em DarkMode, sendo um tema que mais uso no Instagram pessoal.
 
 ![Instagram2](https://user-images.githubusercontent.com/99853352/169061961-2afd1481-eace-4536-b322-76b051f129e7.png)
+
+# Página de perfil 
+Também foi feito uma página de perfil, para que eu pudesse deixar o projeto um pouco mais completo.
+
+![Instagram3](https://user-images.githubusercontent.com/99853352/169063305-95d92d38-e078-4c46-88ce-28ca382198c4.png)
